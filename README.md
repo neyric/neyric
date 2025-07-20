@@ -20,6 +20,10 @@ I'm **Neyric**, A coder who is passionate about web technologies and open source
 * ✅ Speed Optimization & Indexing Fixes
 * ✅ Tools I love: Cloudflare, Google Search Console, Ahrefs, Similar Web, Semrush
 
+### My Websites
+
+![OC Maker Badge](https://frogdr.com/ocmaker.app/badge-white.svg)
+
 ### Stats 🌱
 
 <table cellspacing="0" cellpadding="0" style="border: none">
