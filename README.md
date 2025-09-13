@@ -5,6 +5,7 @@ I'm **Neyric**, A coder who is passionate about web technologies and open source
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
 
 ### What I Do
+- [ImgVid AI](https://imgvid.app) - From still to stunning, transform static images into dynamic videos with AI. Create professional animations in minutes.
 * [Ghibli Style AI](https://ghiblistyleai.app) - A website turn your best memories to Ghibli-Style by AI-generated in seconds.
 * [OC Maker](https://ocmaker.app) - Bring your imagination to life with our AI-powered oc maker.
 * [AI Hairstyle](https://hairroom.app) - A website to try-on hairstyle with the power of AI.
