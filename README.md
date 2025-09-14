@@ -11,6 +11,7 @@ I'm **Neyric**, A coder who is passionate about web technologies and open source
 - [AI Hairstyle](https://hairroom.app) - A website to try-on hairstyle with the power of AI.
 - [Sprunki Game](https://sprunki.art) - Site for fans of Incredibox games, a collection of mods inspired by Incredibox games.
 - [Grow a Garden Calculator](https://growagarden-calculator.info) - Calculate your crops in Roblox Grow A Garden with the Grow A Garden Calculator.
+- [Silksong Wallpaper](https://silksongwallpaper.pics/) - Premium Hollow Knight: Silksong Wallpaper Collection.
 
 ### Skills & Tools
 
