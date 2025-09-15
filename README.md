@@ -12,6 +12,7 @@ I'm **Neyric**, A coder who is passionate about web technologies and open source
 - [Sprunki Game](https://sprunki.art) - Site for fans of Incredibox games, a collection of mods inspired by Incredibox games.
 - [Grow a Garden Calculator](https://growagarden-calculator.info) - Calculate your crops in Roblox Grow A Garden with the Grow A Garden Calculator.
 - [Silksong Wallpaper](https://silksongwallpaper.pics/) - Premium Hollow Knight: Silksong Wallpaper Collection.
+- [Labubu Clicker](https://labubu-clicker.lol/) - Labubu Clicker Game Website.
 
 ### Skills & Tools
 
