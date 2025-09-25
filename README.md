@@ -1,4 +1,4 @@
-<img width="1628" height="892" alt="image" src="https://github.com/user-attachments/assets/dc6a8452-b9ab-4472-9922-2fcfb17d57f8" /># 👋 Hey Neyric is here
+# 👋 Hey Neyric is here
 
 I'm **Neyric**, A coder who is passionate about web technologies and open source.
 
