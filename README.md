@@ -1,3 +1,6 @@
+<!-- ![Neyric GitHub stats](https://github-readme-stats.vercel.app/api?username=neyric) -->
+![Neyric GitHub stats](https://github-readme-stats.vercel.app/api?username=neyric&rank_icon=github)
+
 # 👋 Hey Neyric is here
 
 I'm **Neyric**, A coder who is passionate about web technologies and open source.
