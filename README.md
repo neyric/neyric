@@ -8,17 +8,7 @@ I'm **Neyric**, A coder who is passionate about web technologies and open source
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
 
 ### What I Do
-- [ImgVid AI](https://imgvid.app) - From still to stunning, transform static images into dynamic videos with AI. Create professional animations in minutes.
-- [Ghibli Style AI](https://ghiblistyleai.app) - A website turn your best memories to Ghibli-Style by AI-generated in seconds.
-- [OC Maker](https://ocmaker.app) - Bring your imagination to life with our AI-powered oc maker.
-- [Foto Profissional](https://fotoprofissional.app/) - Apenas faça upload de uma foto para criar fotos profissionais de alta qualidade com o poder do Gemini.
-- [AI Hairstyle](https://hairroom.app) - A website to try-on hairstyle with the power of AI.
-- [Sprunki Game](https://sprunki.art) - Site for fans of Incredibox games, a collection of mods inspired by Incredibox games.
-- [Grow a Garden Calculator](https://growagarden-calculator.info) - Calculate your crops in Roblox Grow A Garden with the Grow A Garden Calculator.
-- [Silksong Wallpaper](https://silksongwallpaper.pics/) - Premium Hollow Knight: Silksong Wallpaper Collection.
-- [Labubu Clicker](https://labubu-clicker.lol/) - Labubu Clicker Game Website.
-- [Bloodmoney Game](https://bloodmoney-game.app/) - Play Bloodmoney! serise game online.
-- [Ghost Face AI](https://ghostfaceai.app/) - Play Bloodmoney! serise game online.
+- Empty Now
 
 ### Skills & Tools
 
@@ -28,10 +18,6 @@ I'm **Neyric**, A coder who is passionate about web technologies and open source
 * ✅ Structured Data & Schema Markup
 * ✅ Speed Optimization & Indexing Fixes
 * ✅ Tools I love: Cloudflare, Google Search Console, Ahrefs, Similar Web, Semrush
-
-### My Websites
-
-![OC Maker Badge](https://frogdr.com/ocmaker.app/badge-white.svg)
 
 ### Stats 🌱
 
